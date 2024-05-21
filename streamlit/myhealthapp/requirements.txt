@@ -1,0 +1,9 @@
+streamlit
+numpy
+scikit-learn
+pandas # If you're manipulating data frames
+matplotlib # Optional, if you're plotting
+seaborn # Optional, for more advanced visualizations
+pytesseract
+Pillow
+opencv-python-headless
