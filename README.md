@@ -3,6 +3,8 @@
 # DSI-SG-42
 ## Project 4b: Managing the Prevalence of Diabetes in Singapore
 > Authors: Clarence Mun, Syahiran Rafi, Conrad Aw
+
+![App screenshot](screenshot.png)
 ---
 
 ## Contents
